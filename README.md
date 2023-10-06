@@ -1,5 +1,3 @@
-# ex-html-eurotur
-Exercício Talento Cloud HTML 1
+# primeiro_html
 
-# INSTRUÇÕES DO PROJETO
-Crie o corpo de uma página sobre lugares turísticos na Europa. Nela, você deve focar apenas no conteúdo da página, adicionando textos, cards, imagens, entre outros. 
+Criando meu primeiro site em html na proz Projeto criado para subir um HTML de um site sobre viagens, nesta HTML a ideia é aprender os conceitos básicos e formas de uso das Tags.
